@@ -1,0 +1,832 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"Session",
+				"session_start"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"light",
+				"lightseagreen"
+			],
+			[
+				"li",
+				"lightsalmon"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ta",
+				"text-align\tproperty"
+			],
+			[
+				"balk",
+				"background-color\tproperty"
+			],
+			[
+				"cn",
+				"center"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"bto",
+				"bottom\tproperty"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"wiD",
+				"width\tproperty"
+			],
+			[
+				"con",
+				"controls\tAttr"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"transitio",
+				"transition\tproperty"
+			],
+			[
+				"update",
+				"update-box"
+			],
+			[
+				"book",
+				"book-1"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"boxs",
+				"box-shadow\tproperty"
+			],
+			[
+				"opi",
+				"opacity\tproperty"
+			],
+			[
+				"san",
+				"Sans"
+			],
+			[
+				"cen",
+				"center\ttext-align"
+			],
+			[
+				"wd",
+				"width\tproperty"
+			],
+			[
+				"aling",
+				"align-items\tproperty"
+			],
+			[
+				"wra",
+				"wrap\tflex-wrap"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"rh",
+				"right\tproperty"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"lin",
+				"line-height\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"foot",
+				"foot-1"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-box\tbox-sizing"
+			],
+			[
+				"ri",
+				"right\ttext-align"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"transf",
+				"transform\tproperty"
+			],
+			[
+				"ce",
+				"center\tjustify-content"
+			],
+			[
+				"pla",
+				"placeholder\t%placeholder"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"border-b",
+				"border-box"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"include",
+				"include\t@include"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bordrb",
+				"border-bottom"
+			],
+			[
+				"left",
+				"border-left-width\tproperty"
+			],
+			[
+				"so",
+				"shape-image-threshold\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"flo",
+				"float\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"st",
+				"style\t<style>"
+			],
+			[
+				"src",
+				"src\tAttr"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"img",
+				"border-image"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"bca",
+				"background-color\tproperty"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"background-colo",
+				"background-color"
+			],
+			[
+				"rig",
+				"right\tproperty"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"texr",
+				"text-transform\tproperty"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"MAX",
+				"max-width\tproperty"
+			],
+			[
+				"mae",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"padi",
+				"padding-right\tproperty"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"boderr",
+				"border-right\tproperty"
+			],
+			[
+				"r",
+				"inherit\tfont-language-override"
+			],
+			[
+				"e",
+				"unset\tfont-language-override"
+			],
+			[
+				"a",
+				"normal\tfont-language-override"
+			],
+			[
+				"barc",
+				"background-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"badc",
+				"background-color\tproperty"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"borc",
+				"border-color\tproperty"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"bot",
+				"border-top\tproperty"
+			],
+			[
+				"b",
+				"bolder\tfont-weight"
+			],
+			[
+				"padn",
+				"padding-right\tproperty"
+			],
+			[
+				"bacc",
+				"background-color\tproperty"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"bord",
+				"border-top\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"backgroundc",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"i",
+				"img"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Close All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xammp/htdocs/dazko/wp-content/themes/oceanwp/footer.php",
+		"/D/xammp/htdocs/dazko/wp-content/themes/oceanwp/footer-pwa.php",
+		"/D/Riotag layout/index.html",
+		"/D/Riotag layout/assets/css/style.css",
+		"/D/grassroots layout/assets/css/style.css",
+		"/D/sec 2/blog.html",
+		"/E/xampp/htdocs/affan/wp-content/themes/index.php",
+		"/E/xampp/htdocs/practice/index.php",
+		"/E/xampp/htdocs/second_project/wp-content/themes/salient/header.php",
+		"/E/xampp/htdocs/first_project/wp-content/themes/salient/header.php",
+		"/E/xampp/htdocs/mart/index.php",
+		"/E/xampp/htdocs/practice/connect.php",
+		"/D/taiwind project/index.html",
+		"/E/xampp/htdocs/club/form.php",
+		"/E/xampp/htdocs/club/index.php",
+		"/E/xampp/htdocs/register/show.php",
+		"/E/xampp/htdocs/register/edit.php",
+		"/E/xampp/htdocs/club/edit.php",
+		"/E/xampp/htdocs/club/delete.php",
+		"/E/xampp/htdocs/club/check.php",
+		"/E/xampp/htdocs/club/details.php",
+		"/E/xampp/htdocs/club/show.php",
+		"/E/xampp/htdocs/club/connect.php",
+		"/E/xampp/htdocs/register/delete.php",
+		"/E/xampp/htdocs/club.php/index.php",
+		"/E/xampp/htdocs/club.php/form.php",
+		"/E/xampp/htdocs/club.php/show.php",
+		"/E/xampp/htdocs/club.php/details.php",
+		"/E/xampp/htdocs/club.php/check.php",
+		"/E/xampp/htdocs/club.php/delete.php",
+		"/E/xampp/htdocs/register1/register.php",
+		"/E/xampp/htdocs/register/Update.php",
+		"/E/xampp/htdocs/club.php/connect.php",
+		"/E/xampp/htdocs/club.php/cheak.php",
+		"/D/samns Layout/index.html",
+		"/D/samns Layout/assets/css/style.css",
+		"/E/xampp/htdocs/register/succ.php",
+		"/E/xampp/htdocs/register/logout.php",
+		"/E/xampp/htdocs/register1/success.php",
+		"/E/xampp/htdocs/register1/connect.php",
+		"/E/xampp/htdocs/register1/index.php",
+		"/E/xampp/htdocs/register1/login.php",
+		"/E/xampp/htdocs/register1/check.php",
+		"/E/xampp/htdocs/register/welcome.php",
+		"/E/xampp/htdocs/register/login.php",
+		"/E/xampp/htdocs/register/index.php",
+		"/E/xampp/htdocs/registration/connect.php",
+		"/E/xampp/htdocs/register/connect.php",
+		"/E/xampp/htdocs/registration/index.php",
+		"/E/xampp/htdocs/registration/login.php",
+		"/E/xampp/htdocs/registration/updating.php",
+		"/E/xampp/htdocs/registration/update.php",
+		"/E/xampp/htdocs/registration/form.php",
+		"/E/xampp/htdocs/registration/register.php",
+		"/E/xampp/htdocs/register/logout1.php",
+		"/E/xampp/htdocs/hamariacademy/form.php",
+		"/E/xampp/htdocs/hamariacademy/index.php",
+		"/C/Users/pc world/AppData/Local/Temp/Temp1_login-register-master.zip/login-register-master/assets/css/bootstrap.css",
+		"/E/xampp/htdocs/register/register.php",
+		"/E/xampp/htdocs/hamariacademy/show.php",
+		"/E/xampp/htdocs/hamariacademy/delete.php",
+		"/E/xampp/htdocs/hamariacademy/edit.php",
+		"/E/xampp/htdocs/hamariacademy/update.php",
+		"/E/xampp/htdocs/hamariacademy/connect.php",
+		"/E/xampp/htdocs/ajax/index.php",
+		"/E/xampp/htdocs/login/connection.php",
+		"/E/xampp/htdocs/ajax/ajax.php",
+		"/E/xampp/htdocs/Ajax/index.php",
+		"/D/loop practice/inde.html",
+		"/D/loop practice/index.html",
+		"/C/xampp/htdocs/phpclass/index.php",
+		"/C/xampp/htdocs/phpclass/formdata.php",
+		"/E/xampp/htdocs/mart/form.php",
+		"/E/xampp/htdocs/mart/martfrom.php",
+		"/E/xampp/htdocs/maxin/pages.php",
+		"/E/xampp/htdocs/maxin/index.php",
+		"/E/xampp/htdocs/maxin/blog.php",
+		"/E/xampp/htdocs/maxin/contact.php",
+		"/E/xampp/htdocs/maxin/features.php",
+		"/E/xampp/htdocs/maxin/footer.php",
+		"/E/xampp/htdocs/maxin/features.html",
+		"/E/xampp/htdocs/maxin/header.php",
+		"/E/xampp/htdocs/maxin layout/index.php",
+		"/D/samns Layout/assets/scss/style.scss",
+		"/C/xampp/htdocs/hamariacademy/form.php",
+		"/C/xampp/htdocs/hamariacademy/index.php",
+		"/D/Jquery index/Audio/index.html",
+		"/D/responsive details/style.css",
+		"/D/boostrap/index.html",
+		"/D/boostrap/assets/css/style.css",
+		"/D/grassroots layout/index.html",
+		"/C/xampp/htdocs/phpclass/formdata",
+		"/C/xampp/htdocs/phpclass/first.php",
+		"/C/xampp/htdocs/phpclass/index.html",
+		"/D/Jquery index/Call back task/index.html",
+		"/D/Jquery index/input task/index.html",
+		"/D/samns Layout/assets/css/boostrap.min.css",
+		"/C/Users/pc world/Desktop/bulb javascript/index.html",
+		"/D/Jquery index/animate task/index.html",
+		"/D/Jquery index/selector/index.html",
+		"/D/Jquery index/fade/toggle.html",
+		"/D/Jquery index/animate task/assets/jquery.min.js",
+		"/D/Jquery index/animate task/assets/jquery.js.min",
+		"/D/Jquery index/slide task/index.html",
+		"/C/Users/pc world/Desktop/task java script/index.html",
+		"/C/Users/pc world/Desktop/task java script/index.html t",
+		"/D/Jquery index/fade/indexhtml1",
+		"/D/Jquery index/fade/index.html",
+		"/D/Jquery index/fade/assets/jquery.min.js",
+		"/D/Jquery index/hide show/index.html",
+		"/C/Users/pc world/Desktop/JQuerey/index.html",
+		"/D/Jquery index/hide show/assets/jquery.min.js",
+		"/D/Jquery index/event/index.html",
+		"/D/Jquery index/event/indx.html",
+		"/D/Jquery index/event/assets/jquery.min.js",
+		"/D/Jquery index/events/index.html",
+		"/C/Users/pc world/Desktop/JQuerey/jquery.min.js",
+		"/C/Users/pc world/Desktop/bulb on off/index.html",
+		"/D/loop practice/in",
+		"/D/grassroots layout/assets/scss/style.scss",
+		"/D/grassroots layout/assets/js/migrate.min.js",
+		"/D/grassroots layout/aseets/css/style.css",
+		"/D/maxin lay out/assets/css/style.css",
+		"/D/boostrap/assets/css/slick-theme.css",
+		"/D/grassroots layout/assets/css/bootstrap.min.css",
+		"/D/grassroots layout/assets/js/bootstrap.min.js",
+		"/D/grassroots layout/assets/js/popper.min.js",
+		"/D/grassroots layout/assets/js/jquery.min.js"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sass",
+				"C:\\Users\\pc world\\Desktop\\practice-1\\scss\\style.scss"
+			],
+			[
+				"",
+				"C:\\Users\\pc world\\Desktop\\practice-1\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
